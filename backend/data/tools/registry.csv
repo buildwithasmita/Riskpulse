@@ -1,0 +1,51 @@
+tool_id,name,category,risk_level,owner,days_since_validation,pass_rate,critical_issues,status
+RPT-001,Credit Card Limit Monitor,Credit Card,Low,Customer Success,106,0.983,0,Overdue
+RPT-002,Credit Card Portfolio Scorecard,Credit Card,Medium,Tech Ops,116,0.985,1,Overdue
+RPT-003,Credit Card Portfolio Scorecard,Credit Card,Medium,Risk Team,29,1.0,0,Passed
+RPT-004,Risk Assessment Exposure Analyzer,Risk Assessment,Medium,Compliance,48,0.97,2,Passed
+RPT-005,Regulatory Returns Compiler,Regulatory,High,Tech Ops,54,0.942,4,Passed
+RPT-006,Credit Card Portfolio Scorecard,Credit Card,High,Card Ops,3,0.951,1,Passed
+RPT-007,Credit Card APR Calculator,Credit Card,Medium,Tech Ops,110,0.98,2,Overdue
+RPT-008,Credit Card Fraud Threshold Checker,Credit Card,Medium,Tech Ops,49,0.971,1,Passed
+RPT-009,Credit Card Fraud Threshold Checker,Credit Card,Low,Tech Ops,89,0.988,1,Passed
+RPT-010,Operational Incident Estimator,Operational,High,Tech Ops,86,0.987,4,Passed
+RPT-011,Credit Card Portfolio Scorecard,Credit Card,Low,Card Ops,25,0.992,0,Failed
+RPT-012,Operational Workflow Assessor,Operational,High,Card Ops,70,0.936,2,Passed
+RPT-013,Regulatory Capital Tracker,Regulatory,Medium,Risk Team,4,0.983,2,Passed
+RPT-014,Risk Assessment Exposure Analyzer,Risk Assessment,High,Customer Success,118,0.953,5,Overdue
+RPT-015,Operational Incident Estimator,Operational,Medium,Compliance,100,0.986,2,Overdue
+RPT-016,Regulatory Liquidity Reporter,Regulatory,Medium,Risk Team,8,0.972,2,Failed
+RPT-017,Risk Assessment Stress Test Helper,Risk Assessment,Medium,Tech Ops,95,0.957,2,Overdue
+RPT-018,Risk Assessment Scenario Mapper,Risk Assessment,Medium,Customer Success,35,0.98,2,Passed
+RPT-019,Operational Control Tracker,Operational,Low,Customer Success,56,0.989,1,Passed
+RPT-020,Operational Incident Estimator,Operational,Medium,Tech Ops,118,0.966,0,Overdue
+RPT-021,Credit Card Limit Monitor,Credit Card,Medium,Tech Ops,120,0.993,2,Overdue
+RPT-022,Credit Card Limit Monitor,Credit Card,Medium,Customer Success,61,0.956,2,Passed
+RPT-023,Credit Card Fraud Threshold Checker,Credit Card,Medium,Card Ops,51,0.999,1,Passed
+RPT-024,Regulatory Capital Tracker,Regulatory,High,Card Ops,55,0.955,1,Passed
+RPT-025,Credit Card Fraud Threshold Checker,Credit Card,Medium,Compliance,0,0.957,1,Passed
+RPT-026,Credit Card Limit Monitor,Credit Card,Medium,Compliance,74,0.986,0,Passed
+RPT-027,Risk Assessment Risk Rating Engine,Risk Assessment,Medium,Card Ops,111,0.966,1,Overdue
+RPT-028,Regulatory Capital Tracker,Regulatory,Low,Tech Ops,58,0.994,0,Passed
+RPT-029,Risk Assessment Scenario Mapper,Risk Assessment,High,Risk Team,32,0.912,3,Passed
+RPT-030,Credit Card APR Calculator,Credit Card,Medium,Compliance,41,0.983,1,Passed
+RPT-031,Risk Assessment Risk Rating Engine,Risk Assessment,High,Tech Ops,0,0.981,2,Passed
+RPT-032,Credit Card Portfolio Scorecard,Credit Card,Medium,Compliance,79,0.994,0,Passed
+RPT-033,Credit Card Fraud Threshold Checker,Credit Card,High,Tech Ops,37,0.901,5,Passed
+RPT-034,Customer Service Service Recovery Tracker,Customer Service,High,Risk Team,109,0.962,4,Overdue
+RPT-035,Credit Card Portfolio Scorecard,Credit Card,Medium,Customer Success,32,0.987,2,Passed
+RPT-036,Credit Card Fraud Threshold Checker,Credit Card,Medium,Compliance,58,0.963,1,Passed
+RPT-037,Customer Service Case Prioritizer,Customer Service,Medium,Compliance,7,0.99,1,Passed
+RPT-038,Regulatory Returns Compiler,Regulatory,Low,Compliance,60,0.98,0,Failed
+RPT-039,Customer Service Service Recovery Tracker,Customer Service,Medium,Customer Success,45,0.969,0,Passed
+RPT-040,Credit Card Portfolio Scorecard,Credit Card,Medium,Compliance,94,0.993,2,Overdue
+RPT-041,Credit Card Portfolio Scorecard,Credit Card,High,Compliance,32,0.934,1,Passed
+RPT-042,Regulatory Returns Compiler,Regulatory,Medium,Risk Team,23,0.984,2,Failed
+RPT-043,Risk Assessment Risk Rating Engine,Risk Assessment,Low,Card Ops,16,0.994,1,Passed
+RPT-044,Credit Card Portfolio Scorecard,Credit Card,Medium,Card Ops,49,0.996,1,Failed
+RPT-045,Risk Assessment Exposure Analyzer,Risk Assessment,High,Tech Ops,7,0.93,3,Passed
+RPT-046,Risk Assessment Stress Test Helper,Risk Assessment,Medium,Card Ops,50,0.977,0,Passed
+RPT-047,Operational Workflow Assessor,Operational,High,Compliance,41,0.929,4,Passed
+RPT-048,Customer Service Call Volume Planner,Customer Service,Medium,Customer Success,5,0.977,2,Passed
+RPT-049,Credit Card Fraud Threshold Checker,Credit Card,High,Tech Ops,113,0.929,0,Overdue
+RPT-050,Credit Card Limit Monitor,Credit Card,Medium,Risk Team,57,0.959,1,Passed

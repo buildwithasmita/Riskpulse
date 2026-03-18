@@ -1,0 +1,21 @@
+# Backend
+backend/venv/
+backend/venv313clean/
+backend/.venv/
+backend/.tmp/
+backend/.virtualenv-appdata/
+backend/*.log
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
