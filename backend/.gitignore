@@ -2,30 +2,18 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
-.Python
 venv/
 env/
-ENV/
 .venv
-venv313clean/
 
-# Data (keep CSV, it's small)
+# Keep data files for deployment!
+# We WANT to commit CSV so it deploys
+# data/
 
 # IDE
 .vscode/
 .idea/
-*.swp
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Env
+# Environment
 .env
 !.env.example
-
-# Local temp and logs
-.tmp/
-.virtualenv-appdata/
-*.log
